@@ -1,0 +1,4 @@
+flask
+isort
+black
+
